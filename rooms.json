@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "P001",
+    "type": "C",
+    "price": 900000,
+    "max_people": 4
+  },
+  {
+    "_id": "P002",
+    "type": "A",
+    "price": 900000,
+    "max_people": 6
+  },
+  {
+    "_id": "P003",
+    "type": "B",
+    "price": 700000,
+    "max_people": 6
+  },
+  {
+    "_id": "P004",
+    "type": "C",
+    "price": 900000,
+    "max_people": 7
+  },
+  {
+    "_id": "P005",
+    "type": "A",
+    "price": 700000,
+    "max_people": 7
+  },
+  {
+    "_id": "P006",
+    "type": "A",
+    "price": 700000,
+    "max_people": 8
+  },
+  {
+    "_id": "P007",
+    "type": "A",
+    "price": 900000,
+    "max_people": 5
+  },
+  {
+    "_id": "P008",
+    "type": "A",
+    "price": 500000,
+    "max_people": 8
+  },
+  {
+    "_id": "P009",
+    "type": "C",
+    "price": 900000,
+    "max_people": 7
+  },
+  {
+    "_id": "P010",
+    "type": "A",
+    "price": 500000,
+    "max_people": 6
+  },
+  {
+    "_id": "P011",
+    "type": "C",
+    "price": 900000,
+    "max_people": 4
+  },
+  {
+    "_id": "P012",
+    "type": "A",
+    "price": 900000,
+    "max_people": 8
+  },
+  {
+    "_id": "P013",
+    "type": "C",
+    "price": 700000,
+    "max_people": 8
+  },
+  {
+    "_id": "P014",
+    "type": "B",
+    "price": 700000,
+    "max_people": 5
+  },
+  {
+    "_id": "P015",
+    "type": "C",
+    "price": 700000,
+    "max_people": 8
+  },
+  {
+    "_id": "P016",
+    "type": "C",
+    "price": 900000,
+    "max_people": 7
+  },
+  {
+    "_id": "P017",
+    "type": "C",
+    "price": 900000,
+    "max_people": 7
+  },
+  {
+    "_id": "P018",
+    "type": "A",
+    "price": 500000,
+    "max_people": 4
+  },
+  {
+    "_id": "P019",
+    "type": "A",
+    "price": 700000,
+    "max_people": 5
+  },
+  {
+    "_id": "P020",
+    "type": "C",
+    "price": 700000,
+    "max_people": 4
+  },
+  {
+    "_id": "P021",
+    "type": "A",
+    "price": 700000,
+    "max_people": 5
+  },
+  {
+    "_id": "P022",
+    "type": "A",
+    "price": 500000,
+    "max_people": 4
+  },
+  {
+    "_id": "P023",
+    "type": "B",
+    "price": 900000,
+    "max_people": 5
+  },
+  {
+    "_id": "P024",
+    "type": "B",
+    "price": 500000,
+    "max_people": 7
+  },
+  {
+    "_id": "P025",
+    "type": "B",
+    "price": 900000,
+    "max_people": 5
+  },
+  {
+    "_id": "P026",
+    "type": "C",
+    "price": 500000,
+    "max_people": 5
+  },
+  {
+    "_id": "P027",
+    "type": "C",
+    "price": 500000,
+    "max_people": 4
+  },
+  {
+    "_id": "P028",
+    "type": "B",
+    "price": 900000,
+    "max_people": 4
+  },
+  {
+    "_id": "P029",
+    "type": "C",
+    "price": 500000,
+    "max_people": 8
+  },
+  {
+    "_id": "P030",
+    "type": "C",
+    "price": 500000,
+    "max_people": 7
+  }
+]

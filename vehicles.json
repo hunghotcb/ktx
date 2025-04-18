@@ -1,0 +1,1052 @@
+[
+  {
+    "_id": "XE0001",
+    "student_id": "SV0106",
+    "plate": "31E-296.66",
+    "type": "Bike",
+    "registered_at": "2024-06-13"
+  },
+  {
+    "_id": "XE0002",
+    "student_id": "SV0263",
+    "plate": "18A-840.38",
+    "type": "Motorbike",
+    "registered_at": "2024-10-29"
+  },
+  {
+    "_id": "XE0003",
+    "student_id": "SV0016",
+    "plate": "18F-831.45",
+    "type": "Motorbike",
+    "registered_at": "2025-02-22"
+  },
+  {
+    "_id": "XE0004",
+    "student_id": "SV0146",
+    "plate": "30D-638.86",
+    "type": "Motorbike",
+    "registered_at": "2024-07-18"
+  },
+  {
+    "_id": "XE0005",
+    "student_id": "SV0215",
+    "plate": "51F-882.04",
+    "type": "Motorbike",
+    "registered_at": "2024-10-18"
+  },
+  {
+    "_id": "XE0006",
+    "student_id": "SV0043",
+    "plate": "51A-116.06",
+    "type": "Motorbike",
+    "registered_at": "2024-08-19"
+  },
+  {
+    "_id": "XE0007",
+    "student_id": "SV0263",
+    "plate": "18A-286.41",
+    "type": "Bike",
+    "registered_at": "2024-12-15"
+  },
+  {
+    "_id": "XE0008",
+    "student_id": "SV0127",
+    "plate": "29A-359.98",
+    "type": "Bike",
+    "registered_at": "2024-11-30"
+  },
+  {
+    "_id": "XE0009",
+    "student_id": "SV0096",
+    "plate": "43A-798.06",
+    "type": "Bike",
+    "registered_at": "2024-08-11"
+  },
+  {
+    "_id": "XE0010",
+    "student_id": "SV0173",
+    "plate": "38C-715.80",
+    "type": "Motorbike",
+    "registered_at": "2024-05-24"
+  },
+  {
+    "_id": "XE0011",
+    "student_id": "SV0216",
+    "plate": "18D-868.94",
+    "type": "Motorbike",
+    "registered_at": "2025-01-04"
+  },
+  {
+    "_id": "XE0012",
+    "student_id": "SV0066",
+    "plate": "18C-509.12",
+    "type": "Bike",
+    "registered_at": "2024-12-01"
+  },
+  {
+    "_id": "XE0013",
+    "student_id": "SV0091",
+    "plate": "37C-147.72",
+    "type": "Bike",
+    "registered_at": "2024-05-27"
+  },
+  {
+    "_id": "XE0014",
+    "student_id": "SV0104",
+    "plate": "38A-652.64",
+    "type": "Motorbike",
+    "registered_at": "2025-03-10"
+  },
+  {
+    "_id": "XE0015",
+    "student_id": "SV0114",
+    "plate": "51C-736.23",
+    "type": "Bike",
+    "registered_at": "2025-01-30"
+  },
+  {
+    "_id": "XE0016",
+    "student_id": "SV0090",
+    "plate": "31F-994.80",
+    "type": "Bike",
+    "registered_at": "2024-12-05"
+  },
+  {
+    "_id": "XE0017",
+    "student_id": "SV0124",
+    "plate": "18E-531.80",
+    "type": "Bike",
+    "registered_at": "2025-02-14"
+  },
+  {
+    "_id": "XE0018",
+    "student_id": "SV0266",
+    "plate": "37A-521.22",
+    "type": "Bike",
+    "registered_at": "2024-10-17"
+  },
+  {
+    "_id": "XE0019",
+    "student_id": "SV0041",
+    "plate": "18A-743.41",
+    "type": "Motorbike",
+    "registered_at": "2024-05-24"
+  },
+  {
+    "_id": "XE0020",
+    "student_id": "SV0300",
+    "plate": "43A-846.91",
+    "type": "Motorbike",
+    "registered_at": "2025-02-20"
+  },
+  {
+    "_id": "XE0021",
+    "student_id": "SV0270",
+    "plate": "36E-861.54",
+    "type": "Bike",
+    "registered_at": "2024-11-19"
+  },
+  {
+    "_id": "XE0022",
+    "student_id": "SV0227",
+    "plate": "30B-319.97",
+    "type": "Motorbike",
+    "registered_at": "2025-04-08"
+  },
+  {
+    "_id": "XE0023",
+    "student_id": "SV0183",
+    "plate": "38A-755.53",
+    "type": "Motorbike",
+    "registered_at": "2024-10-20"
+  },
+  {
+    "_id": "XE0024",
+    "student_id": "SV0297",
+    "plate": "51A-895.49",
+    "type": "Bike",
+    "registered_at": "2025-02-28"
+  },
+  {
+    "_id": "XE0025",
+    "student_id": "SV0189",
+    "plate": "29B-795.12",
+    "type": "Motorbike",
+    "registered_at": "2025-02-20"
+  },
+  {
+    "_id": "XE0026",
+    "student_id": "SV0134",
+    "plate": "30C-671.48",
+    "type": "Motorbike",
+    "registered_at": "2024-09-02"
+  },
+  {
+    "_id": "XE0027",
+    "student_id": "SV0287",
+    "plate": "31F-716.28",
+    "type": "Motorbike",
+    "registered_at": "2024-12-01"
+  },
+  {
+    "_id": "XE0028",
+    "student_id": "SV0160",
+    "plate": "36F-734.05",
+    "type": "Bike",
+    "registered_at": "2024-07-03"
+  },
+  {
+    "_id": "XE0029",
+    "student_id": "SV0077",
+    "plate": "36B-912.73",
+    "type": "Motorbike",
+    "registered_at": "2024-07-02"
+  },
+  {
+    "_id": "XE0030",
+    "student_id": "SV0254",
+    "plate": "43E-223.68",
+    "type": "Bike",
+    "registered_at": "2025-03-27"
+  },
+  {
+    "_id": "XE0031",
+    "student_id": "SV0162",
+    "plate": "30E-133.28",
+    "type": "Motorbike",
+    "registered_at": "2024-12-18"
+  },
+  {
+    "_id": "XE0032",
+    "student_id": "SV0058",
+    "plate": "36D-931.14",
+    "type": "Motorbike",
+    "registered_at": "2024-06-06"
+  },
+  {
+    "_id": "XE0033",
+    "student_id": "SV0070",
+    "plate": "29D-281.87",
+    "type": "Bike",
+    "registered_at": "2024-09-01"
+  },
+  {
+    "_id": "XE0034",
+    "student_id": "SV0172",
+    "plate": "31D-686.37",
+    "type": "Bike",
+    "registered_at": "2025-01-27"
+  },
+  {
+    "_id": "XE0035",
+    "student_id": "SV0253",
+    "plate": "38B-446.01",
+    "type": "Motorbike",
+    "registered_at": "2024-11-16"
+  },
+  {
+    "_id": "XE0036",
+    "student_id": "SV0042",
+    "plate": "18F-728.14",
+    "type": "Motorbike",
+    "registered_at": "2025-03-14"
+  },
+  {
+    "_id": "XE0037",
+    "student_id": "SV0105",
+    "plate": "31D-504.80",
+    "type": "Motorbike",
+    "registered_at": "2025-04-05"
+  },
+  {
+    "_id": "XE0038",
+    "student_id": "SV0101",
+    "plate": "65C-103.56",
+    "type": "Motorbike",
+    "registered_at": "2024-11-11"
+  },
+  {
+    "_id": "XE0039",
+    "student_id": "SV0004",
+    "plate": "43E-122.05",
+    "type": "Bike",
+    "registered_at": "2024-09-20"
+  },
+  {
+    "_id": "XE0040",
+    "student_id": "SV0002",
+    "plate": "38B-127.43",
+    "type": "Motorbike",
+    "registered_at": "2024-12-20"
+  },
+  {
+    "_id": "XE0041",
+    "student_id": "SV0063",
+    "plate": "37F-132.18",
+    "type": "Motorbike",
+    "registered_at": "2024-08-03"
+  },
+  {
+    "_id": "XE0042",
+    "student_id": "SV0175",
+    "plate": "65C-430.88",
+    "type": "Bike",
+    "registered_at": "2024-06-29"
+  },
+  {
+    "_id": "XE0043",
+    "student_id": "SV0249",
+    "plate": "29C-282.82",
+    "type": "Motorbike",
+    "registered_at": "2024-07-13"
+  },
+  {
+    "_id": "XE0044",
+    "student_id": "SV0043",
+    "plate": "51A-948.96",
+    "type": "Bike",
+    "registered_at": "2024-09-14"
+  },
+  {
+    "_id": "XE0045",
+    "student_id": "SV0261",
+    "plate": "43E-193.51",
+    "type": "Motorbike",
+    "registered_at": "2024-09-29"
+  },
+  {
+    "_id": "XE0046",
+    "student_id": "SV0049",
+    "plate": "38D-531.94",
+    "type": "Motorbike",
+    "registered_at": "2024-11-18"
+  },
+  {
+    "_id": "XE0047",
+    "student_id": "SV0102",
+    "plate": "51F-166.87",
+    "type": "Bike",
+    "registered_at": "2024-11-03"
+  },
+  {
+    "_id": "XE0048",
+    "student_id": "SV0020",
+    "plate": "37D-435.22",
+    "type": "Bike",
+    "registered_at": "2024-11-25"
+  },
+  {
+    "_id": "XE0049",
+    "student_id": "SV0111",
+    "plate": "36F-177.17",
+    "type": "Bike",
+    "registered_at": "2024-07-06"
+  },
+  {
+    "_id": "XE0050",
+    "student_id": "SV0077",
+    "plate": "38E-567.41",
+    "type": "Bike",
+    "registered_at": "2025-02-16"
+  },
+  {
+    "_id": "XE0051",
+    "student_id": "SV0131",
+    "plate": "65F-146.32",
+    "type": "Motorbike",
+    "registered_at": "2025-01-16"
+  },
+  {
+    "_id": "XE0052",
+    "student_id": "SV0223",
+    "plate": "29F-124.02",
+    "type": "Motorbike",
+    "registered_at": "2024-05-11"
+  },
+  {
+    "_id": "XE0053",
+    "student_id": "SV0267",
+    "plate": "65C-911.66",
+    "type": "Bike",
+    "registered_at": "2024-11-26"
+  },
+  {
+    "_id": "XE0054",
+    "student_id": "SV0113",
+    "plate": "37F-323.13",
+    "type": "Motorbike",
+    "registered_at": "2024-09-22"
+  },
+  {
+    "_id": "XE0055",
+    "student_id": "SV0173",
+    "plate": "36D-907.30",
+    "type": "Motorbike",
+    "registered_at": "2024-04-17"
+  },
+  {
+    "_id": "XE0056",
+    "student_id": "SV0019",
+    "plate": "31E-716.36",
+    "type": "Bike",
+    "registered_at": "2024-10-28"
+  },
+  {
+    "_id": "XE0057",
+    "student_id": "SV0234",
+    "plate": "38E-805.79",
+    "type": "Motorbike",
+    "registered_at": "2025-02-18"
+  },
+  {
+    "_id": "XE0058",
+    "student_id": "SV0282",
+    "plate": "38F-141.02",
+    "type": "Motorbike",
+    "registered_at": "2025-02-23"
+  },
+  {
+    "_id": "XE0059",
+    "student_id": "SV0034",
+    "plate": "38B-863.54",
+    "type": "Motorbike",
+    "registered_at": "2025-01-07"
+  },
+  {
+    "_id": "XE0060",
+    "student_id": "SV0271",
+    "plate": "51D-254.37",
+    "type": "Motorbike",
+    "registered_at": "2024-10-27"
+  },
+  {
+    "_id": "XE0061",
+    "student_id": "SV0206",
+    "plate": "38F-216.93",
+    "type": "Bike",
+    "registered_at": "2024-05-07"
+  },
+  {
+    "_id": "XE0062",
+    "student_id": "SV0033",
+    "plate": "31C-945.53",
+    "type": "Motorbike",
+    "registered_at": "2024-09-01"
+  },
+  {
+    "_id": "XE0063",
+    "student_id": "SV0175",
+    "plate": "37E-364.66",
+    "type": "Motorbike",
+    "registered_at": "2024-08-13"
+  },
+  {
+    "_id": "XE0064",
+    "student_id": "SV0130",
+    "plate": "51D-505.84",
+    "type": "Motorbike",
+    "registered_at": "2025-01-21"
+  },
+  {
+    "_id": "XE0065",
+    "student_id": "SV0054",
+    "plate": "38E-859.70",
+    "type": "Motorbike",
+    "registered_at": "2024-08-27"
+  },
+  {
+    "_id": "XE0066",
+    "student_id": "SV0055",
+    "plate": "51E-935.34",
+    "type": "Bike",
+    "registered_at": "2024-10-09"
+  },
+  {
+    "_id": "XE0067",
+    "student_id": "SV0163",
+    "plate": "29A-875.06",
+    "type": "Bike",
+    "registered_at": "2024-07-23"
+  },
+  {
+    "_id": "XE0068",
+    "student_id": "SV0273",
+    "plate": "43A-774.38",
+    "type": "Motorbike",
+    "registered_at": "2024-04-27"
+  },
+  {
+    "_id": "XE0069",
+    "student_id": "SV0001",
+    "plate": "51E-343.91",
+    "type": "Bike",
+    "registered_at": "2024-09-26"
+  },
+  {
+    "_id": "XE0070",
+    "student_id": "SV0065",
+    "plate": "18D-740.25",
+    "type": "Motorbike",
+    "registered_at": "2025-02-16"
+  },
+  {
+    "_id": "XE0071",
+    "student_id": "SV0076",
+    "plate": "65F-336.78",
+    "type": "Motorbike",
+    "registered_at": "2024-08-24"
+  },
+  {
+    "_id": "XE0072",
+    "student_id": "SV0007",
+    "plate": "31C-879.07",
+    "type": "Motorbike",
+    "registered_at": "2025-01-17"
+  },
+  {
+    "_id": "XE0073",
+    "student_id": "SV0275",
+    "plate": "37F-558.84",
+    "type": "Bike",
+    "registered_at": "2025-02-18"
+  },
+  {
+    "_id": "XE0074",
+    "student_id": "SV0214",
+    "plate": "51B-882.57",
+    "type": "Motorbike",
+    "registered_at": "2025-03-06"
+  },
+  {
+    "_id": "XE0075",
+    "student_id": "SV0162",
+    "plate": "18A-616.30",
+    "type": "Motorbike",
+    "registered_at": "2024-08-29"
+  },
+  {
+    "_id": "XE0076",
+    "student_id": "SV0203",
+    "plate": "43E-319.93",
+    "type": "Motorbike",
+    "registered_at": "2024-11-24"
+  },
+  {
+    "_id": "XE0077",
+    "student_id": "SV0020",
+    "plate": "37F-828.66",
+    "type": "Bike",
+    "registered_at": "2024-08-08"
+  },
+  {
+    "_id": "XE0078",
+    "student_id": "SV0258",
+    "plate": "30B-746.07",
+    "type": "Motorbike",
+    "registered_at": "2024-08-10"
+  },
+  {
+    "_id": "XE0079",
+    "student_id": "SV0165",
+    "plate": "29D-862.40",
+    "type": "Bike",
+    "registered_at": "2025-03-11"
+  },
+  {
+    "_id": "XE0080",
+    "student_id": "SV0247",
+    "plate": "31E-743.28",
+    "type": "Bike",
+    "registered_at": "2024-10-15"
+  },
+  {
+    "_id": "XE0081",
+    "student_id": "SV0266",
+    "plate": "36F-368.46",
+    "type": "Bike",
+    "registered_at": "2024-06-30"
+  },
+  {
+    "_id": "XE0082",
+    "student_id": "SV0035",
+    "plate": "36F-648.11",
+    "type": "Motorbike",
+    "registered_at": "2024-07-04"
+  },
+  {
+    "_id": "XE0083",
+    "student_id": "SV0226",
+    "plate": "38C-842.11",
+    "type": "Motorbike",
+    "registered_at": "2024-05-24"
+  },
+  {
+    "_id": "XE0084",
+    "student_id": "SV0210",
+    "plate": "37A-211.61",
+    "type": "Bike",
+    "registered_at": "2024-11-25"
+  },
+  {
+    "_id": "XE0085",
+    "student_id": "SV0037",
+    "plate": "30E-666.39",
+    "type": "Motorbike",
+    "registered_at": "2024-12-12"
+  },
+  {
+    "_id": "XE0086",
+    "student_id": "SV0127",
+    "plate": "36B-857.81",
+    "type": "Bike",
+    "registered_at": "2024-08-04"
+  },
+  {
+    "_id": "XE0087",
+    "student_id": "SV0167",
+    "plate": "31A-819.18",
+    "type": "Bike",
+    "registered_at": "2024-07-13"
+  },
+  {
+    "_id": "XE0088",
+    "student_id": "SV0013",
+    "plate": "65F-275.79",
+    "type": "Bike",
+    "registered_at": "2024-12-21"
+  },
+  {
+    "_id": "XE0089",
+    "student_id": "SV0279",
+    "plate": "36B-179.01",
+    "type": "Motorbike",
+    "registered_at": "2025-01-31"
+  },
+  {
+    "_id": "XE0090",
+    "student_id": "SV0139",
+    "plate": "18D-187.22",
+    "type": "Bike",
+    "registered_at": "2024-10-19"
+  },
+  {
+    "_id": "XE0091",
+    "student_id": "SV0168",
+    "plate": "43C-204.18",
+    "type": "Motorbike",
+    "registered_at": "2024-09-07"
+  },
+  {
+    "_id": "XE0092",
+    "student_id": "SV0176",
+    "plate": "30C-450.34",
+    "type": "Motorbike",
+    "registered_at": "2024-06-22"
+  },
+  {
+    "_id": "XE0093",
+    "student_id": "SV0006",
+    "plate": "43C-652.55",
+    "type": "Motorbike",
+    "registered_at": "2024-06-10"
+  },
+  {
+    "_id": "XE0094",
+    "student_id": "SV0231",
+    "plate": "29F-825.22",
+    "type": "Bike",
+    "registered_at": "2024-11-14"
+  },
+  {
+    "_id": "XE0095",
+    "student_id": "SV0244",
+    "plate": "29E-527.53",
+    "type": "Bike",
+    "registered_at": "2024-09-13"
+  },
+  {
+    "_id": "XE0096",
+    "student_id": "SV0149",
+    "plate": "65F-768.26",
+    "type": "Motorbike",
+    "registered_at": "2024-12-23"
+  },
+  {
+    "_id": "XE0097",
+    "student_id": "SV0287",
+    "plate": "37B-611.56",
+    "type": "Motorbike",
+    "registered_at": "2024-09-03"
+  },
+  {
+    "_id": "XE0098",
+    "student_id": "SV0083",
+    "plate": "36C-631.56",
+    "type": "Motorbike",
+    "registered_at": "2024-08-11"
+  },
+  {
+    "_id": "XE0099",
+    "student_id": "SV0161",
+    "plate": "43E-679.00",
+    "type": "Bike",
+    "registered_at": "2024-04-14"
+  },
+  {
+    "_id": "XE0100",
+    "student_id": "SV0257",
+    "plate": "65C-698.84",
+    "type": "Bike",
+    "registered_at": "2024-07-21"
+  },
+  {
+    "_id": "XE0101",
+    "student_id": "SV0264",
+    "plate": "31B-904.23",
+    "type": "Motorbike",
+    "registered_at": "2024-11-14"
+  },
+  {
+    "_id": "XE0102",
+    "student_id": "SV0160",
+    "plate": "51C-902.39",
+    "type": "Bike",
+    "registered_at": "2024-11-10"
+  },
+  {
+    "_id": "XE0103",
+    "student_id": "SV0037",
+    "plate": "65F-188.27",
+    "type": "Bike",
+    "registered_at": "2024-07-25"
+  },
+  {
+    "_id": "XE0104",
+    "student_id": "SV0198",
+    "plate": "18D-616.66",
+    "type": "Motorbike",
+    "registered_at": "2025-03-03"
+  },
+  {
+    "_id": "XE0105",
+    "student_id": "SV0282",
+    "plate": "29C-325.91",
+    "type": "Motorbike",
+    "registered_at": "2024-05-04"
+  },
+  {
+    "_id": "XE0106",
+    "student_id": "SV0199",
+    "plate": "18A-794.44",
+    "type": "Motorbike",
+    "registered_at": "2024-11-21"
+  },
+  {
+    "_id": "XE0107",
+    "student_id": "SV0281",
+    "plate": "31D-862.31",
+    "type": "Bike",
+    "registered_at": "2024-05-26"
+  },
+  {
+    "_id": "XE0108",
+    "student_id": "SV0039",
+    "plate": "36E-633.77",
+    "type": "Motorbike",
+    "registered_at": "2024-07-27"
+  },
+  {
+    "_id": "XE0109",
+    "student_id": "SV0290",
+    "plate": "31A-449.11",
+    "type": "Motorbike",
+    "registered_at": "2024-09-27"
+  },
+  {
+    "_id": "XE0110",
+    "student_id": "SV0212",
+    "plate": "37A-567.30",
+    "type": "Motorbike",
+    "registered_at": "2025-02-20"
+  },
+  {
+    "_id": "XE0111",
+    "student_id": "SV0149",
+    "plate": "18D-711.17",
+    "type": "Bike",
+    "registered_at": "2024-11-17"
+  },
+  {
+    "_id": "XE0112",
+    "student_id": "SV0228",
+    "plate": "30F-176.31",
+    "type": "Bike",
+    "registered_at": "2025-03-14"
+  },
+  {
+    "_id": "XE0113",
+    "student_id": "SV0031",
+    "plate": "65D-835.37",
+    "type": "Bike",
+    "registered_at": "2025-02-18"
+  },
+  {
+    "_id": "XE0114",
+    "student_id": "SV0004",
+    "plate": "65F-848.32",
+    "type": "Motorbike",
+    "registered_at": "2024-07-12"
+  },
+  {
+    "_id": "XE0115",
+    "student_id": "SV0022",
+    "plate": "65E-916.63",
+    "type": "Motorbike",
+    "registered_at": "2024-11-21"
+  },
+  {
+    "_id": "XE0116",
+    "student_id": "SV0066",
+    "plate": "38E-181.83",
+    "type": "Bike",
+    "registered_at": "2025-02-17"
+  },
+  {
+    "_id": "XE0117",
+    "student_id": "SV0049",
+    "plate": "30D-124.78",
+    "type": "Motorbike",
+    "registered_at": "2024-05-25"
+  },
+  {
+    "_id": "XE0118",
+    "student_id": "SV0013",
+    "plate": "38D-519.00",
+    "type": "Motorbike",
+    "registered_at": "2025-01-28"
+  },
+  {
+    "_id": "XE0119",
+    "student_id": "SV0011",
+    "plate": "36F-492.15",
+    "type": "Motorbike",
+    "registered_at": "2025-01-16"
+  },
+  {
+    "_id": "XE0120",
+    "student_id": "SV0108",
+    "plate": "36C-194.10",
+    "type": "Motorbike",
+    "registered_at": "2025-03-11"
+  },
+  {
+    "_id": "XE0121",
+    "student_id": "SV0073",
+    "plate": "29B-563.45",
+    "type": "Motorbike",
+    "registered_at": "2024-09-11"
+  },
+  {
+    "_id": "XE0122",
+    "student_id": "SV0089",
+    "plate": "29E-146.09",
+    "type": "Bike",
+    "registered_at": "2024-12-05"
+  },
+  {
+    "_id": "XE0123",
+    "student_id": "SV0049",
+    "plate": "37D-379.32",
+    "type": "Bike",
+    "registered_at": "2025-02-16"
+  },
+  {
+    "_id": "XE0124",
+    "student_id": "SV0008",
+    "plate": "37D-887.63",
+    "type": "Bike",
+    "registered_at": "2024-04-29"
+  },
+  {
+    "_id": "XE0125",
+    "student_id": "SV0122",
+    "plate": "29E-489.54",
+    "type": "Bike",
+    "registered_at": "2024-07-08"
+  },
+  {
+    "_id": "XE0126",
+    "student_id": "SV0246",
+    "plate": "31D-965.24",
+    "type": "Bike",
+    "registered_at": "2025-03-03"
+  },
+  {
+    "_id": "XE0127",
+    "student_id": "SV0241",
+    "plate": "43F-742.22",
+    "type": "Bike",
+    "registered_at": "2024-10-11"
+  },
+  {
+    "_id": "XE0128",
+    "student_id": "SV0298",
+    "plate": "43F-581.32",
+    "type": "Motorbike",
+    "registered_at": "2024-08-24"
+  },
+  {
+    "_id": "XE0129",
+    "student_id": "SV0090",
+    "plate": "30D-121.78",
+    "type": "Bike",
+    "registered_at": "2025-04-04"
+  },
+  {
+    "_id": "XE0130",
+    "student_id": "SV0195",
+    "plate": "37B-836.45",
+    "type": "Bike",
+    "registered_at": "2024-08-13"
+  },
+  {
+    "_id": "XE0131",
+    "student_id": "SV0048",
+    "plate": "37C-747.06",
+    "type": "Motorbike",
+    "registered_at": "2024-05-29"
+  },
+  {
+    "_id": "XE0132",
+    "student_id": "SV0096",
+    "plate": "43E-567.20",
+    "type": "Bike",
+    "registered_at": "2024-06-06"
+  },
+  {
+    "_id": "XE0133",
+    "student_id": "SV0216",
+    "plate": "38E-996.99",
+    "type": "Bike",
+    "registered_at": "2025-02-25"
+  },
+  {
+    "_id": "XE0134",
+    "student_id": "SV0297",
+    "plate": "31D-858.93",
+    "type": "Bike",
+    "registered_at": "2024-06-07"
+  },
+  {
+    "_id": "XE0135",
+    "student_id": "SV0062",
+    "plate": "38E-949.99",
+    "type": "Motorbike",
+    "registered_at": "2024-04-22"
+  },
+  {
+    "_id": "XE0136",
+    "student_id": "SV0294",
+    "plate": "65A-166.30",
+    "type": "Bike",
+    "registered_at": "2024-05-28"
+  },
+  {
+    "_id": "XE0137",
+    "student_id": "SV0207",
+    "plate": "29D-585.58",
+    "type": "Motorbike",
+    "registered_at": "2024-08-10"
+  },
+  {
+    "_id": "XE0138",
+    "student_id": "SV0225",
+    "plate": "51C-544.81",
+    "type": "Motorbike",
+    "registered_at": "2024-06-11"
+  },
+  {
+    "_id": "XE0139",
+    "student_id": "SV0163",
+    "plate": "51F-129.02",
+    "type": "Bike",
+    "registered_at": "2024-07-20"
+  },
+  {
+    "_id": "XE0140",
+    "student_id": "SV0231",
+    "plate": "29B-421.36",
+    "type": "Motorbike",
+    "registered_at": "2024-11-20"
+  },
+  {
+    "_id": "XE0141",
+    "student_id": "SV0192",
+    "plate": "36B-495.29",
+    "type": "Motorbike",
+    "registered_at": "2024-08-12"
+  },
+  {
+    "_id": "XE0142",
+    "student_id": "SV0008",
+    "plate": "51E-371.21",
+    "type": "Motorbike",
+    "registered_at": "2024-07-23"
+  },
+  {
+    "_id": "XE0143",
+    "student_id": "SV0228",
+    "plate": "31B-174.35",
+    "type": "Bike",
+    "registered_at": "2024-10-29"
+  },
+  {
+    "_id": "XE0144",
+    "student_id": "SV0222",
+    "plate": "37C-966.79",
+    "type": "Motorbike",
+    "registered_at": "2024-12-26"
+  },
+  {
+    "_id": "XE0145",
+    "student_id": "SV0012",
+    "plate": "18F-990.07",
+    "type": "Bike",
+    "registered_at": "2024-05-20"
+  },
+  {
+    "_id": "XE0146",
+    "student_id": "SV0084",
+    "plate": "30F-223.27",
+    "type": "Bike",
+    "registered_at": "2025-03-23"
+  },
+  {
+    "_id": "XE0147",
+    "student_id": "SV0120",
+    "plate": "18F-493.49",
+    "type": "Bike",
+    "registered_at": "2024-08-09"
+  },
+  {
+    "_id": "XE0148",
+    "student_id": "SV0028",
+    "plate": "29C-252.79",
+    "type": "Bike",
+    "registered_at": "2024-11-27"
+  },
+  {
+    "_id": "XE0149",
+    "student_id": "SV0259",
+    "plate": "18A-101.09",
+    "type": "Motorbike",
+    "registered_at": "2024-08-31"
+  },
+  {
+    "_id": "XE0150",
+    "student_id": "SV0267",
+    "plate": "38F-154.11",
+    "type": "Motorbike",
+    "registered_at": "2024-04-19"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "DV1",
+    "name": "Laundry",
+    "price": 10000
+  },
+  {
+    "_id": "DV2",
+    "name": "Parking",
+    "price": 3000
+  },
+  {
+    "_id": "DV3",
+    "name": "Bike Rental",
+    "price": 50000
+  },
+  {
+    "_id": "DV4",
+    "name": "Cafeteria",
+    "price": 25000
+  },
+  {
+    "_id": "DV5",
+    "name": "Monthly Parking",
+    "price": 100000
+  }
+]
